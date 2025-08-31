@@ -1,9 +1,20 @@
-# ¡Hola! Encantado de conocerte.
+# ¡Hola! Encantado de conocerte. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-¡Bienvenido a mi página!  
-Soy **Yelsen Gonzales Huaromo**, **Arquitecto de Soluciones Web & Cloud**, originario de 🇵🇪 **Ancash, Perú**, actualmente viviendo en 🏔️ **Huaraz, Áncash**.  
-Me apasiona crear **Sistemas escalables, seguras y orientadas a la innovación tecnológica**, aplicando **arquitecturas modernas, patrones de diseño y metodologías ágiles**.  
-Formado como **Ingeniero de Sistemas e Informática en la Universidad Nacional Santiago Antúnez de Mayolo**, con experiencia en **desarrollo de software, integración de sistemas y optimización en entornos Cloud**.
+## ⭐ Sobre mí
+
+<img align="right" alt="Desarrollador trabajando" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+Soy **Arquitecto de Soluciones Web & Cloud**, originario de 🇵🇪 **Ancash, Perú**, actualmente viviendo en 🏔️ **Huaraz, Áncash**. Me apasiona crear **sistemas escalables, seguras y orientadas a la innovación tecnológica**, aplicando **arquitecturas modernas, patrones de diseño y metodologías ágiles**.
+
+**Formado como Ingeniero de Sistemas e Informática** en la Universidad Nacional Santiago Antúnez de Mayolo, con experiencia en **desarrollo de software, integración de sistemas y optimización en entornos Cloud**.
+
+• 🌱 Actualmente aprendiendo...
+  ○ Microservicios con Kubernetes
+  ○ Arquitecturas Serverless
+  ○ DevOps y CI/CD avanzado
+
+
+![Banner de yelsen](unasam.jpeg) 
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -79,7 +90,7 @@ Formado como **Ingeniero de Sistemas e Informática en la Universidad Nacional S
 ## 🌟 ¡Bienvenido a Perú! 🏔️ ¡Huaraz te espera!
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1531065208531-4036c0dba3ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Paisaje de los Andes peruanos" width="400" />
+  <img src="laguna.jpg" alt="Paisaje de los Andes peruanos" width="400" />
 </div>
 
 *Arriba están las últimas 3 fotos compartidas de mi hermoso Perú*  
